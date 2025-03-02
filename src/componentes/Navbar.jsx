@@ -14,9 +14,9 @@ const Navbar = () => {
             <div className=" container px-4 mx-auto relative text-sm ">
                 <div className="flex justify-between items-center">
                     <div className="flex items-center flex-shrink-0">
-                        <img className="h-12 w-10 mr-2" src={logo} alt="logo" />
-                        <span className="text-xl-tracking-tight">
-                            Fintivio.
+                        <img className="h-12 w-10 mr-2 m-4" src={logo} alt="logo" />
+                        <span className="text-xl-tracking-tight pl-2">
+                            Fintivio
                         </span>
                     </div>
                     <ul className="hidden lg:flex ml-14 space-x-12">
@@ -27,10 +27,10 @@ const Navbar = () => {
                         ))}
                     </ul>
                     <div className="hidden lg:flex justify-center space-x-12 items-center">
-                        <a href="#" className=" hover:bg-[#155CCE] py-2 px-3 border rounded-md">
+                        <a href="#" className=" hover:bg-[#1494E2]  border-[#155CCE] py-2 px-3 border rounded-md transition duration-200">
                             Sign In
                         </a>
-                        <a href="#" className="bg-[#1494E2] hover:bg-[#155CCE] py-2 px-3 rounded-md">
+                        <a href="#" className=" hover:bg-[#1494E2] border border-[#155CCE] py-2 px-3 rounded-md transition duration-200">
                             Create Account
                         </a>
                     </div>

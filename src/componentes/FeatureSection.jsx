@@ -15,7 +15,7 @@ const FeatureSection = () => {
                 Feature.
             </span>
             <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking wide">Secure a prosperus
-            <span className="bg-[#155CCE] text-transparent bg-clip-text">{" "} future. </span> 
+            <span className="bg-gradient-to-r from-[#99ccff] to-[#155CCE] text-transparent bg-clip-text">{" "} Future. </span> 
 
             </h2>
         </div>

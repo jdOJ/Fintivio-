@@ -154,19 +154,26 @@ export const pricingOptions = [
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "Tarifas" },
+  { href: "#", text: "Cuenta de empresa online" },      
+  { href: "#", text: "Métodos de pago" },
+  { href: "#", text: "Tarjetas de empresa" },
+  { href: "#", text: "Tarjeta X" },
+  { href: "#", text: "Tarjeta virtual" },
+  { href: "#", text: "Tarjeta instant" },
+  { href: "#", text: "Transferencia SEPA" },
+  { href: "#", text: "Transferencia internacional" },
+ 
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Cuenta pymes" },
+  { href: "#", text: "Cuenta microempresas" },
+  { href: "#", text: "Cuenta autónomos" },
+  { href: "#", text: "Cuenta personas jurídicas" },
+  { href: "#", text: "Cuenta en el extranjero" },
+  { href: "#", text: "Creación de empresa" },
+  { href: "#", text: "Creación SL" },
 ];
 
 export const communityLinks = [

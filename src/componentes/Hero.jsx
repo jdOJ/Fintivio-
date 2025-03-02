@@ -4,12 +4,12 @@ const Hero = () => {
     return (
         <div className="flex flex-col items-center mt-6 lg:mt-20">
             <h1 className="tex4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-                Empowering you to manage your <span className="bg-[#155CCE] text-transparent bg-clip-text">{" "}legacy</span>
+            Money for here,  <span className="bg-gradient-to-r from-[#99ccff] to-[#155CCE] text-transparent bg-clip-text">{" "}there and everywhere</span>
             </h1>
             <p className='mt-10 text-lg text-center text-neutral-500 max-w-4xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, porro minima vitae, nulla ratione in aperiam inventore soluta ad sint voluptas voluptate voluptatibus accusamus suscipit doloribus sunt, deleniti esse quae.</p>
             <div className="flex justify-center my-10">
-                <a href="#" className="bg-[#1494E2] hover:bg-[#155CCE] py-3 px-4 mx-3 rounded-md">Start for free</a>
-                <a href="#" className="bg-[#99ccff] hover:bg-[#155CCE] py-3 px-4 mx-3 rounded-md border-b-sky-950">Documentation</a>
+                <a href="#" className="hover:bg-[#1494E2] border border-[#155CCE] py-3 px-4 mx-3 rounded-md transition duration-200">Start for free</a>
+                <a href="#" className="hover:bg-[#1494E2] border border-[#155CCE] py-3 px-4 mx-3 rounded-md transition duration-200">Documentation</a>
             </div>
             <div className="flex mt-10 justify-center">
                 <video autoPlay loop muted className="rounded-lg w-1/2 border-[#061027] shadow-blue-500 mx-2 my-4">
