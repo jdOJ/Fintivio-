@@ -14,7 +14,7 @@ const FeatureSection = () => {
             <span className="bg-[#1494E2] hover:bg-[#135f8f] rounded-full h-6 text-sm-font-medium px-2 py-1 uppercase">
                 Feature.
             </span>
-            <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking wide">Secure a prosperus
+            <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking-tight">Secure a prosperus
             <span className="bg-gradient-to-r from-[#99ccff] to-[#155CCE] text-transparent bg-clip-text">{" "} Future. </span> 
 
             </h2>
